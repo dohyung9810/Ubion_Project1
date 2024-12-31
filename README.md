@@ -1,5 +1,6 @@
 # Ubion_Project1
 ![image](https://github.com/user-attachments/assets/7e3ade20-355a-4214-bda6-c77fb16d10ae)
+- 더 자세한 정보는 비상장외부감사기업_발표자료.pdf를 다운 받아 확인할 수 있습니다.
 ### ProJect WorkFlow
 
 #### 데이터 수집 
@@ -23,3 +24,7 @@
 - 이들 재무 지표는 기업의 수익 창출 능력, 규모, 안정성을 평가하는 핵심 요소
 - 상장 전/후의 재무적 특징을 비교·분석함으로써 비상장기업 투자 정보 제공 가능
 - 결과적으로 투자자들은 상장 가능성이 높은 기업에 투자 기회를 얻고, 비상장기업 시장 활성화에도 기여하게 됨
+
+### 파일 정보
+- 기업 전처리 파일 : KIND_Preprocessing.ipynb, 외감기업.ipynb, 죽은기업살리기.ipynb
+- EDA 및 모델링 파일 : (윈저라이징ver)model_cross_val.ipynb
